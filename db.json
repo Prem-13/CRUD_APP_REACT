@@ -1,0 +1,28 @@
+{
+  "user": [
+    {
+      "name": "prem kumar",
+      "email": "premkumarsince1996@gmail.com",
+      "phone": "+919345046458",
+      "id": 1
+    },
+    {
+      "name": "prem 130",
+      "email": "premkumarsince1996@gmail.com",
+      "phone": "+919345046458",
+      "id": 2
+    },
+    {
+      "name": "premkumar",
+      "email": "premkumarsince1996@gmail.com",
+      "phone": "+919345046458",
+      "id": 3
+    },
+    {
+      "name": "PREMKUMAR ",
+      "email": "premkumarsince1996@gmail.com",
+      "phone": "+919345046458",
+      "id": 4
+    }
+  ]
+}
